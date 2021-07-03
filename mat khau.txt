@@ -1,0 +1,22 @@
+Ð? ch?y du?c source code các b?n c?n enable short tag trong php.ini
+
+short_open_tag=On
+C?u hình file \system\model\config.php
+
+\admin\config\config.php
+
+Thay d?i thông tin url, db, pass c?n thi?t
+
+Luu ý: d? ch?y du?c chu?n các b?n c?n thay d?i các url c?ng.
+
+Link admin: \admin
+
+Tài kho?n: quanly
+
+M?t kh?u: admin
+
+C?u hình php.ini
+
+
+
+https://drive.google.com/uc?id=0B5_Ap2XVPI4zYWhxSmFPZHlDWVE&export=download
